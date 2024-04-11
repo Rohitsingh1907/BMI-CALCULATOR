@@ -1,0 +1,74 @@
+.App{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 8% 30% 0% 30% ;
+  padding : 30px 50px 0px 50px;
+  background-color: rgb(51, 57, 41);
+  border: 1px solid black;
+  text-align: center;
+}
+
+.container h3{
+  color: whitesmoke;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+
+label{
+  margin-right: 10px;
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.l1{
+  margin-bottom: 10px;
+}
+
+input{
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px 10px;
+  background-color: bisque;
+  border: none;
+}
+
+.l2{
+  margin-bottom: 10px;
+}
+
+.btn-1{
+  font-size: 20px;
+  background-color: yellowgreen;
+  margin-right: 10px;
+  padding: 10px 10px ;
+  font-family: 'Baloo Bhai 2', 'cursive';
+  border: none;
+  
+}
+
+.btn-2{
+  font-size: 20px;
+  background-color: white;
+  padding: 10px 10px ;
+  font-family: 'Baloo Bhai 2', 'cursive';
+  border: none;
+}
+
+.btn-1 button:hover{
+  background-color:  rgb(146, 146, 231);;
+}
+
+.btn-2  button:hover{
+  background-color: yellowgreen;
+}
+
+.center p{
+  font-size: 20px;
+  font-family: 'Ysabeau SC', sans-serif;
+  color: aliceblue;
+}
